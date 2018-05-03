@@ -56,10 +56,10 @@
             "security": {
                 "securityGroups": [
                     {
-                        "id": "sg-2cb57444"
+                        "id": "sg-35218344"
                     },
                     {
-                        "name": "sg-35218344"
+                        "id": "sg-6ed12e1a"
                     }
                 ]
             },
