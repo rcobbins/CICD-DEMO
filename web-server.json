@@ -40,12 +40,12 @@
             "networking": {
                 "networks": [
                     {
-                        "id": "vpc-cd8134aa"
+                        "id": "vpc-fa3e0382"
                     }
                 ],
                 "subnets": [
                     {
-                        "id": "subnet-c0b0e0ea"
+                        "id": "subnet-fb13abb1"
                     }
                 ]
             },
@@ -56,10 +56,10 @@
             "security": {
                 "securityGroups": [
                     {
-                        "id": "sg-35218344"
+                        "id": "sg-3b2ebf4f"
                     },
                     {
-                        "id": "sg-6ed12e1a"
+                        "id": "sg-687e3d21"
                     }
                 ]
             },
