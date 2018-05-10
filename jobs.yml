@@ -1,4 +1,0 @@
----
-jobs:
-  - {name: 'dev-test-1', git: 'https://github.com/lcc2207/test1.git', farmtemp: 'web-server.json', stage_job: 'stage-test-1'}
-  - {name: 'stage-test-1', git: 'https://github.com/lcc2207/test1.git', farmtemp: 'web-server.json', stage_job: ''}
