@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Enterprises use the Scalr enterprise-grade cloud management platform to build a standardized process for consuming cloud resources at self-service. 
+Enterprises use the Scalr enterprise-grade cloud management platform to build a standardized self-servicep process for consuming cloud resources. 
 
 To deliver self-service, admins match end-users with the provisioning method that makes them most productive. Repetitive, cookie-cutter requests might go through a simplified Self-Service Catalog, while more advanced requests would go through the Power Console. 
 
-This demo is designed as a conceptual example of how to leverage the power console to build a highly customized, automated workflow. For this demonstration, we’ll use a CI/CD pipeline. 
+This demo is designed as a conceptual example of how to leverage Scalr in a CI/CD workflow, using Scalr Farm Templates, API, and Power Console. 
 
 ## Workflow
 
