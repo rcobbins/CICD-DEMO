@@ -21,7 +21,7 @@
             "cloudPlatform": "ec2",
             "cloudLocation": "us-east-1",
             "instanceType": {
-                "id": "m5.xlarge"
+                "id": "m3.xlarge"
             },
             "launchIndex": 0,
             "advancedConfiguration": {
