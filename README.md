@@ -10,13 +10,14 @@ This demo is designed as a conceptual example of how to leverage Scalr in a CI/C
 
 ## Workflow
 
- A user commits a change to GitHub, in this example a webpage, GitHub then sends a webhook to Jenkins, which initiates the build process by which Jenkis and deploys the code to a Dev environment. The owner of the new dev stack is the user who originally committed to GitHub.
+ A user commits a change to GitHub, in this example a webpage, GitHub then sends a webhook to Jenkins, which initiates the build process by which Jenkis deploys the code to a devolpment Environment in Scalr. 
 
-Jenkins then runs the necessary tests, if the test passes, the code is deployed to a staging environment, and the dev stack is terminated. Whether you want to automate this next step is up to you, but typically this is where you’d perform any necessary manual testing or tasks. 
+Jenkins then runs the necessary tests, if the test passes, the code is deployed to a staging Environment, and the dev stack is terminated. Whether you want to automate this next step is up to you, but typically this is where you’d perform any necessary manual testing or tasks. For the purpose of this demo - we are using a manual staging process - visially verifying the new code has been deployed.
 
-Once the code is ready for production, we’ll fire Scalr orchestration event that promotes the application from staging to a production environment. 
+Once the code has been verified in the staging Enviroment, we’ll fire a Scalr orchestration event that promotes the application from staging to a production Environment. 
 
-It’s important remember that we’re using GitHub and Jenkins for this example, but you can use whichever repo and build automation system you prefer. 
+It’s important remember that we’re using GitHub and Jenkins for this example, but you can use whichever code repository and build automation system you prefer. 
 
 
 ## Instructions
+Need to add
