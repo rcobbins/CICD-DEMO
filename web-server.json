@@ -73,7 +73,7 @@
                 },
                 {
                     "name": "GIT_URL",
-                    "value": "https://github.com/corefile/CICD-DEMO.git"
+                    "value": "https://github.com/rcobbins/CICD-DEMO.git"
                 }
             ],
             "orchestration": {
